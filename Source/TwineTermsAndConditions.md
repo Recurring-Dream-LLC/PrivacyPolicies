@@ -1,31 +1,21 @@
-**Privacy Policy**
+# Terms and Conditions
 
-This policy applies to all information collected or submitted by the Tipsy application for iPhone and Apple Watch.
+Twine is an App created by Recurring Dream LLC for Apple platforms.
 
-**Information Collection**
+## Subscription
 
-Tipsy does not collect or retain any personal identifying information as part of its core functions. 
+A Twine Subscription is linked to your iCloud account, and may only be used with that account.
 
-Tipsy logs usage information locally on the device. 
+The Subscription renews automatically unless cancelled. Cancellation is handled by Apple, through your iCloud account settings.
 
-Tipsy uses Apple's in-app purchase mechanism, and records the receipt of a sucessful purchase locally on the device.
+## Limitations
 
-Apple may collect crash logs if the privacy settings of your device allow it.
+Twine, when subscribed, does not limit the amount of data stored. However, constraints of device storage, iCloud account storage, and OS services do impose real-world limitations.
 
-**Children’s Privacy**
+iCloud synchronization of your data is handled by the OS, with no guarantee of timeliness.  
 
-Tipsy is not designed to attract anyone under the age of 13. No identfying information is retained by Tipsy regardless of age.
+## Warranty 
 
-**Your Consent**
+Twine is provided to you without warranty of any kind. You agree to indemnify and hold us and harmless from any claim or demand. 
 
-By using Tipsy, you consent to this privacy policy.
-
-**Contacting Us**
-
-If you have questions regarding this privacy policy, you may email support@recurringdream.com. 
-
-**Changes to This Privacy Policy**
-
-If this privacy policy changes, updates will be available on this page. 
-
-This policy is effective as of September 6, 2020
+Twine is created by Recurring Dream LLC from its offices within the United States of America. We make no representation that the App is appropriate or available for use in other locations, and access from territories where its content or use is illegal is prohibited. Those who choose to access this App from locations outside of the United States do so on their own initiative and are responsible for compliance with applicable local laws.

@@ -21,7 +21,7 @@ Twine is not designed to attract anyone under the age of 13. No identfying infor
 
 ## Your Consent
 
-By using Twine, you consent to this privacy policy.
+By using Twine, you consent to this privacy policy. 
 
 ## Contacting Us
 
@@ -29,5 +29,6 @@ If you have questions regarding this privacy policy, you may email support@recur
 
 ## Changes to This Privacy Policy
 
-If this privacy policy changes, updates will be available on this page. 
+If this privacy policy changes, updates will be available on this page.
+
 This policy is effective as of August 5, 2024
