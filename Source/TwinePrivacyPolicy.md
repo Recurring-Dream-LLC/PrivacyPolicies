@@ -11,7 +11,7 @@ Twine stores your photos, reminders, and notes in the App's private storage on y
 
 Twine uses your private iCloud storage to synchronize your data among your devices. This cannot be viewed by Recurring Dream LLC.
 
-Twine uses Apple's in-app purchase mechanism, and may record the receipt of a sucessful purchase locally on the device.
+Twine uses Apple's in-app purchase mechanism, which may record the receipt of a sucessful purchase locally on the device.
 
 Apple may collect crash logs if the privacy settings of your device allow it.
 
